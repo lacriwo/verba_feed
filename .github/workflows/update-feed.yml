@@ -11,9 +11,12 @@ permissions:
 jobs:
   update-feed:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -37,5 +40,5 @@ jobs:
             echo "No changes"
           else
             git commit -m "Update patched feed"
-            git push
+            git push origin HEAD:${{ github.ref_name }}
           fi
