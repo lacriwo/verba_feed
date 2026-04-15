@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
+import os
 import urllib.request
 import xml.etree.ElementTree as ET
 
 SOURCE_URL = "https://api.macroserver.ru/estate/export/yandex/OzA5_WiGLTOJUuUfZsa-aAnYrqeYWBlO7q97bDXLcTWdInddefntJn-Gx9oKQ2qDosqdi_K_c8t7HhEqgVzInjUi_sG_3P3HqxDZrIROtRuZqBKBbk-f9dF4USIHZkZnW3SzJXh8MTc2ODgwNjkwOHxjOGJiNg/394-yandex.xml?feed_id=8691"
 TARGET_URL = "https://ligo-verba.ru"
-OUTPUT_FILE = "public/394-yandex-patched.xml"
+OUTPUT_FILE = "docs/394-yandex-patched.xml"
 
 with urllib.request.urlopen(SOURCE_URL, timeout=90) as r:
     xml_data = r.read()
@@ -27,5 +28,6 @@ for offer in offers:
 if ns_uri:
     ET.register_namespace("", ns_uri)
 
+os.makedirs("docs", exist_ok=True)
 ET.ElementTree(root).write(OUTPUT_FILE, encoding="utf-8", xml_declaration=True)
 print(f"Offers processed: {len(offers)}")
