@@ -1,14 +1,716 @@
 <?xml version='1.0' encoding='utf-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-<generation-date>2026-05-05T08:44:23+11:00</generation-date>
+<generation-date>2026-05-05T18:31:46+11:00</generation-date>
+<offer internal-id="6038631">
+<category>квартира</category>
+<type>продажа</type>
+<deal-status>первичная продажа</deal-status>
+<property-type>жилая</property-type>
+<url>https://ligo-verba.ru</url>
+<creation-date>2026-05-02T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-03T18:31:46+11:00</last-update-date>
+<manually-added>да</manually-added>
+<location>
+<country>Россия</country>
+<region>Сахалинская область</region>
+<district>п/р Ново-Александровск</district>
+<locality-name>Южно-Сахалинск</locality-name>
+<address>ул Науки, 1/1</address>
+<apartment>217</apartment>
+<longitude>142.72039317329273</longitude>
+<latitude>47.03280809061891</latitude>
+</location>
+<sales-agent>
+<name>Группа компаний ЛИГО</name>
+<category>застройщик</category>
+<phone>8 800 500-09-41</phone>
+<organization>Группа компаний ЛИГО</organization>
+</sales-agent>
+<price>
+<value>7990000</value>
+<currency>RUB</currency>
+</price>
+<area><value>41</value><unit>кв.м</unit></area>
+<building-name>ЖК «Верба»</building-name>
+<built-year>2025</built-year>
+<building-state>hand-over</building-state>
+<new-flat>1</new-flat>
+<studio>1</studio>
+
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<floor>2</floor>
+<open-plan>нет</open-plan>
+<renovation>предчистовая</renovation>
+<lift>нет</lift>
+
+<parking>нет</parking>
+
+<guarded-building>нет</guarded-building>
+
+<bathroom-unit>раздельный</bathroom-unit>
+
+<floors-total>13</floors-total>
+<mortgage>1</mortgage>
+<building-type>монолит</building-type>
+<description>&lt;p&gt;&lt;strong&gt;Городской оазис &amp;ldquo;Верба&amp;rdquo;&lt;/strong&gt; расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.&lt;/p&gt;
+&lt;p&gt;Верба &amp;mdash; первая предвестница весны и обновления. Оазис Верба &amp;mdash; повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.&lt;/p&gt;</description>
+ <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238872/Q0dLz1OUBXqLOXwxNjk2MjA5NDM2fDRiMDIw/planirovka_type-17-40.74.jpg</image> 
+
+</offer>
+
+<offer internal-id="6038630">
+<category>квартира</category>
+<type>продажа</type>
+<deal-status>первичная продажа</deal-status>
+<property-type>жилая</property-type>
+<url>https://ligo-verba.ru</url>
+<creation-date>2026-05-01T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-04T18:31:46+11:00</last-update-date>
+<manually-added>да</manually-added>
+<location>
+<country>Россия</country>
+<region>Сахалинская область</region>
+<district>п/р Ново-Александровск</district>
+<locality-name>Южно-Сахалинск</locality-name>
+<address>ул Науки, 1/1</address>
+<apartment>216</apartment>
+<longitude>142.72039317329273</longitude>
+<latitude>47.03280809061891</latitude>
+</location>
+<sales-agent>
+<name>Группа компаний ЛИГО</name>
+<category>застройщик</category>
+<phone>8 800 500-09-41</phone>
+<organization>Группа компаний ЛИГО</organization>
+</sales-agent>
+<price>
+<value>7990000</value>
+<currency>RUB</currency>
+</price>
+<area><value>40.8</value><unit>кв.м</unit></area>
+<building-name>ЖК «Верба»</building-name>
+<built-year>2025</built-year>
+<building-state>hand-over</building-state>
+<new-flat>1</new-flat>
+<studio>1</studio>
+
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<floor>2</floor>
+<open-plan>нет</open-plan>
+<renovation>предчистовая</renovation>
+<lift>нет</lift>
+
+<parking>нет</parking>
+
+<guarded-building>нет</guarded-building>
+
+<bathroom-unit>раздельный</bathroom-unit>
+
+<floors-total>13</floors-total>
+<mortgage>1</mortgage>
+<building-type>монолит</building-type>
+<description>&lt;p&gt;&lt;strong&gt;Городской оазис &amp;ldquo;Верба&amp;rdquo;&lt;/strong&gt; расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.&lt;/p&gt;
+&lt;p&gt;Верба &amp;mdash; первая предвестница весны и обновления. Оазис Верба &amp;mdash; повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.&lt;/p&gt;</description>
+ <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238851/Q0dLz1OUBXiIOXwxNjk2MjA5MzUwfDJiYjYx/planirovka_type-16-40.74.jpg</image> 
+
+</offer>
+
+<offer internal-id="6038641">
+<category>квартира</category>
+<type>продажа</type>
+<deal-status>первичная продажа</deal-status>
+<property-type>жилая</property-type>
+<url>https://ligo-verba.ru</url>
+<creation-date>2026-05-02T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-05T18:31:46+11:00</last-update-date>
+<manually-added>да</manually-added>
+<location>
+<country>Россия</country>
+<region>Сахалинская область</region>
+<district>п/р Ново-Александровск</district>
+<locality-name>Южно-Сахалинск</locality-name>
+<address>ул Науки, 1/1</address>
+<apartment>227</apartment>
+<longitude>142.72039317329273</longitude>
+<latitude>47.03280809061891</latitude>
+</location>
+<sales-agent>
+<name>Группа компаний ЛИГО</name>
+<category>застройщик</category>
+<phone>8 800 500-09-41</phone>
+<organization>Группа компаний ЛИГО</organization>
+</sales-agent>
+<price>
+<value>7990000</value>
+<currency>RUB</currency>
+</price>
+<area><value>40.6</value><unit>кв.м</unit></area>
+<building-name>ЖК «Верба»</building-name>
+<built-year>2025</built-year>
+<building-state>hand-over</building-state>
+<new-flat>1</new-flat>
+<studio>1</studio>
+
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<floor>3</floor>
+<open-plan>нет</open-plan>
+<renovation>предчистовая</renovation>
+<lift>нет</lift>
+
+<parking>нет</parking>
+
+<guarded-building>нет</guarded-building>
+
+<bathroom-unit>раздельный</bathroom-unit>
+
+<floors-total>13</floors-total>
+<mortgage>1</mortgage>
+<building-type>монолит</building-type>
+<description>&lt;p&gt;&lt;strong&gt;Городской оазис &amp;ldquo;Верба&amp;rdquo;&lt;/strong&gt; расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.&lt;/p&gt;
+&lt;p&gt;Верба &amp;mdash; первая предвестница весны и обновления. Оазис Верба &amp;mdash; повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.&lt;/p&gt;</description>
+ <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238874/Q0dLz1OUBXqNOXwxNjk2MjA5NDQzfDVjMTY2/planirovka_type-17-40.44.jpg</image> 
+
+</offer>
+
+<offer internal-id="6038650">
+<category>квартира</category>
+<type>продажа</type>
+<deal-status>первичная продажа</deal-status>
+<property-type>жилая</property-type>
+<url>https://ligo-verba.ru</url>
+<creation-date>2026-05-01T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-03T18:31:46+11:00</last-update-date>
+<manually-added>да</manually-added>
+<location>
+<country>Россия</country>
+<region>Сахалинская область</region>
+<district>п/р Ново-Александровск</district>
+<locality-name>Южно-Сахалинск</locality-name>
+<address>ул Науки, 1/1</address>
+<apartment>236</apartment>
+<longitude>142.72039317329273</longitude>
+<latitude>47.03280809061891</latitude>
+</location>
+<sales-agent>
+<name>Группа компаний ЛИГО</name>
+<category>застройщик</category>
+<phone>8 800 500-09-41</phone>
+<organization>Группа компаний ЛИГО</organization>
+</sales-agent>
+<price>
+<value>7990000</value>
+<currency>RUB</currency>
+</price>
+<area><value>40.6</value><unit>кв.м</unit></area>
+<building-name>ЖК «Верба»</building-name>
+<built-year>2025</built-year>
+<building-state>hand-over</building-state>
+<new-flat>1</new-flat>
+<rooms-type>раздельные</rooms-type>
+
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<floor>4</floor>
+<open-plan>нет</open-plan>
+<renovation>предчистовая</renovation>
+<lift>нет</lift>
+
+<parking>нет</parking>
+
+<guarded-building>нет</guarded-building>
+
+<bathroom-unit>раздельный</bathroom-unit>
+
+<floors-total>13</floors-total>
+<mortgage>1</mortgage>
+<building-type>монолит</building-type>
+<description>&lt;p&gt;&lt;strong&gt;Городской оазис &amp;ldquo;Верба&amp;rdquo;&lt;/strong&gt; расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.&lt;/p&gt;
+&lt;p&gt;Верба &amp;mdash; первая предвестница весны и обновления. Оазис Верба &amp;mdash; повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.&lt;/p&gt;</description>
+ <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238850/Q0dLz1OUBXiJOXwxNjk2MjA5MzQ3fDU3ZjIw/planirovka_type-16-40.44.jpg</image> 
+
+</offer>
+
+<offer internal-id="6038660">
+<category>квартира</category>
+<type>продажа</type>
+<deal-status>первичная продажа</deal-status>
+<property-type>жилая</property-type>
+<url>https://ligo-verba.ru</url>
+<creation-date>2026-05-02T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-04T18:31:46+11:00</last-update-date>
+<manually-added>да</manually-added>
+<location>
+<country>Россия</country>
+<region>Сахалинская область</region>
+<district>п/р Ново-Александровск</district>
+<locality-name>Южно-Сахалинск</locality-name>
+<address>ул Науки, 1/1</address>
+<apartment>246</apartment>
+<longitude>142.72039317329273</longitude>
+<latitude>47.03280809061891</latitude>
+</location>
+<sales-agent>
+<name>Группа компаний ЛИГО</name>
+<category>застройщик</category>
+<phone>8 800 500-09-41</phone>
+<organization>Группа компаний ЛИГО</organization>
+</sales-agent>
+<price>
+<value>7990000</value>
+<currency>RUB</currency>
+</price>
+<area><value>40.4</value><unit>кв.м</unit></area>
+<building-name>ЖК «Верба»</building-name>
+<built-year>2025</built-year>
+<building-state>hand-over</building-state>
+<new-flat>1</new-flat>
+<rooms-type>раздельные</rooms-type>
+
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<floor>5</floor>
+<open-plan>нет</open-plan>
+<renovation>предчистовая</renovation>
+<lift>нет</lift>
+
+<parking>нет</parking>
+
+<guarded-building>нет</guarded-building>
+
+<bathroom-unit>раздельный</bathroom-unit>
+
+<floors-total>13</floors-total>
+<mortgage>1</mortgage>
+<building-type>монолит</building-type>
+<description>&lt;p&gt;&lt;strong&gt;Городской оазис &amp;ldquo;Верба&amp;rdquo;&lt;/strong&gt; расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.&lt;/p&gt;
+&lt;p&gt;Верба &amp;mdash; первая предвестница весны и обновления. Оазис Верба &amp;mdash; повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.&lt;/p&gt;</description>
+ <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238850/Q0dLz1OUBXiJOXwxNjk2MjA5MzQ3fDU3ZjIw/planirovka_type-16-40.44.jpg</image> 
+
+</offer>
+
+<offer internal-id="6038437">
+<category>квартира</category>
+<type>продажа</type>
+<deal-status>первичная продажа</deal-status>
+<property-type>жилая</property-type>
+<url>https://ligo-verba.ru</url>
+<creation-date>2026-05-01T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-04T18:31:46+11:00</last-update-date>
+<manually-added>да</manually-added>
+<location>
+<country>Россия</country>
+<region>Сахалинская область</region>
+<district>п/р Ново-Александровск</district>
+<locality-name>Южно-Сахалинск</locality-name>
+<address>ул Науки, 1/1</address>
+<apartment>23</apartment>
+<longitude>142.72039317329273</longitude>
+<latitude>47.03280809061891</latitude>
+</location>
+<sales-agent>
+<name>Группа компаний ЛИГО</name>
+<category>застройщик</category>
+<phone>8 800 500-09-41</phone>
+<organization>Группа компаний ЛИГО</organization>
+</sales-agent>
+<price>
+<value>7990000</value>
+<currency>RUB</currency>
+</price>
+<area><value>40.6</value><unit>кв.м</unit></area>
+<building-name>ЖК «Верба»</building-name>
+<built-year>2025</built-year>
+<building-state>hand-over</building-state>
+<new-flat>1</new-flat>
+<studio>1</studio>
+
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<floor>3</floor>
+<open-plan>нет</open-plan>
+<renovation>предчистовая</renovation>
+<lift>нет</lift>
+
+<parking>нет</parking>
+
+<guarded-building>нет</guarded-building>
+
+<bathroom-unit>раздельный</bathroom-unit>
+
+<floors-total>13</floors-total>
+<mortgage>1</mortgage>
+<building-type>монолит</building-type>
+<description>&lt;p&gt;&lt;strong&gt;Городской оазис &amp;ldquo;Верба&amp;rdquo;&lt;/strong&gt; расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.&lt;/p&gt;
+&lt;p&gt;Верба &amp;mdash; первая предвестница весны и обновления. Оазис Верба &amp;mdash; повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.&lt;/p&gt;</description>
+ <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238856/Q0dLz1OUBXiPOXwxNjk2MjA5Mzc1fDFmMmIw/planirovka_type-8-40.44.jpg</image> 
+
+</offer>
+
+<offer internal-id="6038447">
+<category>квартира</category>
+<type>продажа</type>
+<deal-status>первичная продажа</deal-status>
+<property-type>жилая</property-type>
+<url>https://ligo-verba.ru</url>
+<creation-date>2026-05-02T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-03T18:31:46+11:00</last-update-date>
+<manually-added>да</manually-added>
+<location>
+<country>Россия</country>
+<region>Сахалинская область</region>
+<district>п/р Ново-Александровск</district>
+<locality-name>Южно-Сахалинск</locality-name>
+<address>ул Науки, 1/1</address>
+<apartment>33</apartment>
+<longitude>142.72039317329273</longitude>
+<latitude>47.03280809061891</latitude>
+</location>
+<sales-agent>
+<name>Группа компаний ЛИГО</name>
+<category>застройщик</category>
+<phone>8 800 500-09-41</phone>
+<organization>Группа компаний ЛИГО</organization>
+</sales-agent>
+<price>
+<value>7990000</value>
+<currency>RUB</currency>
+</price>
+<area><value>40.5</value><unit>кв.м</unit></area>
+<kitchen-space><value>14.14</value><unit>кв.м</unit></kitchen-space>
+<building-name>ЖК «Верба»</building-name>
+<built-year>2025</built-year>
+<building-state>hand-over</building-state>
+<new-flat>1</new-flat>
+<rooms-type>раздельные</rooms-type>
+
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<floor>4</floor>
+<open-plan>нет</open-plan>
+<renovation>предчистовая</renovation>
+<lift>нет</lift>
+
+<parking>нет</parking>
+
+<guarded-building>нет</guarded-building>
+
+<bathroom-unit>раздельный</bathroom-unit>
+
+<floors-total>13</floors-total>
+<mortgage>1</mortgage>
+<building-type>монолит</building-type>
+<description>&lt;p&gt;&lt;strong&gt;Городской оазис &amp;ldquo;Верба&amp;rdquo;&lt;/strong&gt; расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.&lt;/p&gt;
+&lt;p&gt;Верба &amp;mdash; первая предвестница весны и обновления. Оазис Верба &amp;mdash; повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.&lt;/p&gt;</description>
+ <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238856/Q0dLz1OUBXiPOXwxNjk2MjA5Mzc1fDFmMmIw/planirovka_type-8-40.44.jpg</image> 
+
+</offer>
+
+<offer internal-id="6038467">
+<category>квартира</category>
+<type>продажа</type>
+<deal-status>первичная продажа</deal-status>
+<property-type>жилая</property-type>
+<url>https://ligo-verba.ru</url>
+<creation-date>2026-05-02T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-05T18:31:46+11:00</last-update-date>
+<manually-added>да</manually-added>
+<location>
+<country>Россия</country>
+<region>Сахалинская область</region>
+<district>п/р Ново-Александровск</district>
+<locality-name>Южно-Сахалинск</locality-name>
+<address>ул Науки, 1/1</address>
+<apartment>53</apartment>
+<longitude>142.72039317329273</longitude>
+<latitude>47.03280809061891</latitude>
+</location>
+<sales-agent>
+<name>Группа компаний ЛИГО</name>
+<category>застройщик</category>
+<phone>8 800 500-09-41</phone>
+<organization>Группа компаний ЛИГО</organization>
+</sales-agent>
+<price>
+<value>7990000</value>
+<currency>RUB</currency>
+</price>
+<area><value>40.5</value><unit>кв.м</unit></area>
+<kitchen-space><value>14.14</value><unit>кв.м</unit></kitchen-space>
+<building-name>ЖК «Верба»</building-name>
+<built-year>2025</built-year>
+<building-state>hand-over</building-state>
+<new-flat>1</new-flat>
+<rooms-type>раздельные</rooms-type>
+
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<floor>6</floor>
+<open-plan>нет</open-plan>
+<renovation>предчистовая</renovation>
+<lift>нет</lift>
+
+<parking>нет</parking>
+
+<guarded-building>нет</guarded-building>
+
+<bathroom-unit>раздельный</bathroom-unit>
+
+<floors-total>13</floors-total>
+<mortgage>1</mortgage>
+<building-type>монолит</building-type>
+<description>&lt;p&gt;&lt;strong&gt;Городской оазис &amp;ldquo;Верба&amp;rdquo;&lt;/strong&gt; расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.&lt;/p&gt;
+&lt;p&gt;Верба &amp;mdash; первая предвестница весны и обновления. Оазис Верба &amp;mdash; повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.&lt;/p&gt;</description>
+ <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238856/Q0dLz1OUBXiPOXwxNjk2MjA5Mzc1fDFmMmIw/planirovka_type-8-40.44.jpg</image> 
+
+</offer>
+
+<offer internal-id="6038468">
+<category>квартира</category>
+<type>продажа</type>
+<deal-status>первичная продажа</deal-status>
+<property-type>жилая</property-type>
+<url>https://ligo-verba.ru</url>
+<creation-date>2026-05-01T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-03T18:31:46+11:00</last-update-date>
+<manually-added>да</manually-added>
+<location>
+<country>Россия</country>
+<region>Сахалинская область</region>
+<district>п/р Ново-Александровск</district>
+<locality-name>Южно-Сахалинск</locality-name>
+<address>ул Науки, 1/1</address>
+<apartment>54</apartment>
+<longitude>142.72039317329273</longitude>
+<latitude>47.03280809061891</latitude>
+</location>
+<sales-agent>
+<name>Группа компаний ЛИГО</name>
+<category>застройщик</category>
+<phone>8 800 500-09-41</phone>
+<organization>Группа компаний ЛИГО</organization>
+</sales-agent>
+<price>
+<value>7990000</value>
+<currency>RUB</currency>
+</price>
+<area><value>40.7</value><unit>кв.м</unit></area>
+<kitchen-space><value>14.14</value><unit>кв.м</unit></kitchen-space>
+<building-name>ЖК «Верба»</building-name>
+<built-year>2025</built-year>
+<building-state>hand-over</building-state>
+<new-flat>1</new-flat>
+<rooms-type>раздельные</rooms-type>
+
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<floor>6</floor>
+<open-plan>нет</open-plan>
+<renovation>предчистовая</renovation>
+<lift>нет</lift>
+
+<parking>нет</parking>
+
+<guarded-building>нет</guarded-building>
+
+<bathroom-unit>раздельный</bathroom-unit>
+
+<floors-total>13</floors-total>
+<mortgage>1</mortgage>
+<building-type>монолит</building-type>
+<description>&lt;p&gt;&lt;strong&gt;Городской оазис &amp;ldquo;Верба&amp;rdquo;&lt;/strong&gt; расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.&lt;/p&gt;
+&lt;p&gt;Верба &amp;mdash; первая предвестница весны и обновления. Оазис Верба &amp;mdash; повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.&lt;/p&gt;</description>
+ <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238853/Q0dLz1OUBXiKOXwxNjk2MjA5MzYyfGJmNTM5/planirovka_type-9-40.44.jpg</image> 
+
+</offer>
+
+<offer internal-id="6038478">
+<category>квартира</category>
+<type>продажа</type>
+<deal-status>первичная продажа</deal-status>
+<property-type>жилая</property-type>
+<url>https://ligo-verba.ru</url>
+<creation-date>2026-05-02T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-04T18:31:46+11:00</last-update-date>
+<manually-added>да</manually-added>
+<location>
+<country>Россия</country>
+<region>Сахалинская область</region>
+<district>п/р Ново-Александровск</district>
+<locality-name>Южно-Сахалинск</locality-name>
+<address>ул Науки, 1/1</address>
+<apartment>64</apartment>
+<longitude>142.72039317329273</longitude>
+<latitude>47.03280809061891</latitude>
+</location>
+<sales-agent>
+<name>Группа компаний ЛИГО</name>
+<category>застройщик</category>
+<phone>8 800 500-09-41</phone>
+<organization>Группа компаний ЛИГО</organization>
+</sales-agent>
+<price>
+<value>7990000</value>
+<currency>RUB</currency>
+</price>
+<area><value>40.5</value><unit>кв.м</unit></area>
+<kitchen-space><value>14.14</value><unit>кв.м</unit></kitchen-space>
+<building-name>ЖК «Верба»</building-name>
+<built-year>2025</built-year>
+<building-state>hand-over</building-state>
+<new-flat>1</new-flat>
+<rooms-type>раздельные</rooms-type>
+
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<floor>7</floor>
+<open-plan>нет</open-plan>
+<renovation>предчистовая</renovation>
+<lift>нет</lift>
+
+<parking>нет</parking>
+
+<guarded-building>нет</guarded-building>
+
+<bathroom-unit>раздельный</bathroom-unit>
+
+<floors-total>13</floors-total>
+<mortgage>1</mortgage>
+<building-type>монолит</building-type>
+<description>&lt;p&gt;&lt;strong&gt;Городской оазис &amp;ldquo;Верба&amp;rdquo;&lt;/strong&gt; расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.&lt;/p&gt;
+&lt;p&gt;Верба &amp;mdash; первая предвестница весны и обновления. Оазис Верба &amp;mdash; повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.&lt;/p&gt;</description>
+ <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238853/Q0dLz1OUBXiKOXwxNjk2MjA5MzYyfGJmNTM5/planirovka_type-9-40.44.jpg</image> 
+
+</offer>
+
+<offer internal-id="6038487">
+<category>квартира</category>
+<type>продажа</type>
+<deal-status>первичная продажа</deal-status>
+<property-type>жилая</property-type>
+<url>https://ligo-verba.ru</url>
+<creation-date>2026-05-01T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-05T18:31:46+11:00</last-update-date>
+<manually-added>да</manually-added>
+<location>
+<country>Россия</country>
+<region>Сахалинская область</region>
+<district>п/р Ново-Александровск</district>
+<locality-name>Южно-Сахалинск</locality-name>
+<address>ул Науки, 1/1</address>
+<apartment>73</apartment>
+<longitude>142.72039317329273</longitude>
+<latitude>47.03280809061891</latitude>
+</location>
+<sales-agent>
+<name>Группа компаний ЛИГО</name>
+<category>застройщик</category>
+<phone>8 800 500-09-41</phone>
+<organization>Группа компаний ЛИГО</organization>
+</sales-agent>
+<price>
+<value>7990000</value>
+<currency>RUB</currency>
+</price>
+<area><value>40.4</value><unit>кв.м</unit></area>
+<kitchen-space><value>14.14</value><unit>кв.м</unit></kitchen-space>
+<building-name>ЖК «Верба»</building-name>
+<built-year>2025</built-year>
+<building-state>hand-over</building-state>
+<new-flat>1</new-flat>
+<rooms-type>раздельные</rooms-type>
+
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<floor>8</floor>
+<open-plan>нет</open-plan>
+<renovation>предчистовая</renovation>
+<lift>нет</lift>
+
+<parking>нет</parking>
+
+<guarded-building>нет</guarded-building>
+
+<bathroom-unit>раздельный</bathroom-unit>
+
+<floors-total>13</floors-total>
+<mortgage>1</mortgage>
+<building-type>монолит</building-type>
+<description>Городской оазис “Верба” расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.
+
+Верба — первая предвестница весны и обновления. Оазис Верба — повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.</description>
+ <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238856/Q0dLz1OUBXiPOXwxNjk2MjA5Mzc1fDFmMmIw/planirovka_type-8-40.44.jpg</image> 
+
+</offer>
+
+<offer internal-id="6038528">
+<category>квартира</category>
+<type>продажа</type>
+<deal-status>первичная продажа</deal-status>
+<property-type>жилая</property-type>
+<url>https://ligo-verba.ru</url>
+<creation-date>2026-05-02T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-04T18:31:46+11:00</last-update-date>
+<manually-added>да</manually-added>
+<location>
+<country>Россия</country>
+<region>Сахалинская область</region>
+<district>п/р Ново-Александровск</district>
+<locality-name>Южно-Сахалинск</locality-name>
+<address>ул Науки, 1/1</address>
+<apartment>114</apartment>
+<longitude>142.72039317329273</longitude>
+<latitude>47.03280809061891</latitude>
+</location>
+<sales-agent>
+<name>Группа компаний ЛИГО</name>
+<category>застройщик</category>
+<phone>8 800 500-09-41</phone>
+<organization>Группа компаний ЛИГО</organization>
+</sales-agent>
+<price>
+<value>8000000</value>
+<currency>RUB</currency>
+</price>
+<area><value>40.6</value><unit>кв.м</unit></area>
+<building-name>ЖК «Верба»</building-name>
+<built-year>2025</built-year>
+<building-state>hand-over</building-state>
+<new-flat>1</new-flat>
+<rooms-type>раздельные</rooms-type>
+
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<floor>12</floor>
+<open-plan>нет</open-plan>
+<renovation>предчистовая</renovation>
+<lift>нет</lift>
+
+<parking>нет</parking>
+
+<guarded-building>нет</guarded-building>
+
+<bathroom-unit>раздельный</bathroom-unit>
+
+<floors-total>13</floors-total>
+<mortgage>1</mortgage>
+<building-type>монолит</building-type>
+<description>&lt;p&gt;&lt;strong&gt;Городской оазис &amp;ldquo;Верба&amp;rdquo;&lt;/strong&gt; расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.&lt;/p&gt;
+&lt;p&gt;Верба &amp;mdash; первая предвестница весны и обновления. Оазис Верба &amp;mdash; повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.&lt;/p&gt;</description>
+ <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238854/Q0dLz1OUBXiNOXwxNjk2MjA5MzY2fDIxNjc5/planirovka_type-9-40.37.jpg</image> 
+
+</offer>
+
 <offer internal-id="6038626">
 <category>квартира</category>
 <type>продажа</type>
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-verba.ru</url>
-<creation-date>2026-05-02T08:44:23+11:00</creation-date>
-<last-update-date>2026-05-05T08:44:23+11:00</last-update-date>
+<creation-date>2026-05-01T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-05T18:31:46+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -65,8 +767,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-verba.ru</url>
-<creation-date>2026-05-01T08:44:23+11:00</creation-date>
-<last-update-date>2026-05-04T08:44:23+11:00</last-update-date>
+<creation-date>2026-05-01T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-03T18:31:46+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -124,8 +826,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-verba.ru</url>
-<creation-date>2026-05-01T08:44:23+11:00</creation-date>
-<last-update-date>2026-05-03T08:44:23+11:00</last-update-date>
+<creation-date>2026-05-01T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-04T18:31:46+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -183,8 +885,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-verba.ru</url>
-<creation-date>2026-05-01T08:44:23+11:00</creation-date>
-<last-update-date>2026-05-05T08:44:23+11:00</last-update-date>
+<creation-date>2026-05-02T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-03T18:31:46+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -243,8 +945,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-verba.ru</url>
-<creation-date>2026-05-02T08:44:23+11:00</creation-date>
-<last-update-date>2026-05-05T08:44:23+11:00</last-update-date>
+<creation-date>2026-05-01T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-04T18:31:46+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -302,8 +1004,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-verba.ru</url>
-<creation-date>2026-05-02T08:44:23+11:00</creation-date>
-<last-update-date>2026-05-04T08:44:23+11:00</last-update-date>
+<creation-date>2026-05-02T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-04T18:31:46+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
@@ -361,8 +1063,8 @@
 <deal-status>первичная продажа</deal-status>
 <property-type>жилая</property-type>
 <url>https://ligo-verba.ru</url>
-<creation-date>2026-05-02T08:44:23+11:00</creation-date>
-<last-update-date>2026-05-04T08:44:23+11:00</last-update-date>
+<creation-date>2026-05-02T18:31:46+11:00</creation-date>
+<last-update-date>2026-05-03T18:31:46+11:00</last-update-date>
 <manually-added>да</manually-added>
 <location>
 <country>Россия</country>
